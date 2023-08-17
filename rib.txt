@@ -1,2 +1,3 @@
 wha is git hub?
-here goes the answer...
+  To store the code, datas.
+  And we can use when ever we want.
